@@ -16,6 +16,6 @@
    },
    "repository" :
    { "type" : "git",
-      "url" : "https://github.com/wal-de-marlad/node-http-static-server/npm.git"
+      "url" : "https://github.com/wal-de-marlad/node-http-static-server.git"
    }
 }
