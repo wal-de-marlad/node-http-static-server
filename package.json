@@ -1,7 +1,7 @@
 {
-   "name": "http-server",
+   "name": "hserver",
    "version": "0.0.1",
-   "description": "Http server",
+   "description": "Serve static pages",
    "author": "Wal De Mar-Lad",
    "license": "MIT",
    "main": "server.js",
