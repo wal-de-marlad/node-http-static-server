@@ -7,7 +7,7 @@
    "main": "server.js",
    "config": {
       "host": "127.0.0.1",
-      "port": "80",
+      "port": "8080",
       "public": "public",
       "index": "/index.html"
    },
