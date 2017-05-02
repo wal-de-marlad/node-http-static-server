@@ -23,6 +23,6 @@
    },
    "license"      : {
       "type"      : "MIT",
-      "url"       : "https://github.com/wal-de-marlad/node-http-static-server/blob/master/LICENSE"
+      "url"       : "https://opensource.org/licenses/MIT"
    }
 }
