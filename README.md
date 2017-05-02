@@ -8,7 +8,7 @@ Feel free to criticize this code.
 4. npm start
 
 ## Defaults
-Server will run on host 127.0.0.1, port 8080, will serve files from directory named *public* and will look for *index.html* file. You can change this before *npm start*. For example:
+Server will run on host 127.0.0.1, port 8080, will serve files from directory named *public* and will look for *index.html* file. You can change this defaults before *npm start*. For example:
 
 npm config set server:host 52.168.92.11
 
