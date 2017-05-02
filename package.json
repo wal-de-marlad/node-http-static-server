@@ -12,7 +12,8 @@
       "index"     : "index.html"
    },
    "dependencies" : {
-      "mime"      : "^1.3.4"
+      "mime"      : "^1.3.4",
+      "static"    : "wal-de-marlad/static-module"
    },
    "repository"   : {
       "type"      : "git",
