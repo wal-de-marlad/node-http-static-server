@@ -22,7 +22,7 @@
       "email"     : "wal.de.marlad@gmail.com"
    },
    "license"      : {
-      "type"      : "MIT",
-      "url"       : "https://opensource.org/licenses/MIT"
+      "type"      : "MIT License",
+      "url"       : "https://github.com/wal-de-marlad/node-http-static-server/blob/master/LICENSE"
    }
 }
