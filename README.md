@@ -9,7 +9,5 @@ Feel free to criticize this code.
 
 ## Note
 You can change *port* on which server will run.
-
 npm config set server:port 8080
-
 Do it **before** npm start.
