@@ -3,6 +3,7 @@
    "version"      : "0.0.1",
    "description"  : "Serve static pages",
    "author"       : "Wal De Mar-Lad",
+   "license"      : "MIT",
    "main"         : "server.js",
    "config"       : {
       "host"      : "127.0.0.1",
@@ -20,9 +21,5 @@
    "bugs"         : {
       "url"       : "https://github.com/wal-de-marlad/node-http-static-server/issues",
       "email"     : "wal.de.marlad@gmail.com"
-   },
-   "license"      : {
-      "type"      : "MIT License",
-      "url"       : "https://github.com/wal-de-marlad/node-http-static-server/blob/master/LICENSE"
    }
 }
