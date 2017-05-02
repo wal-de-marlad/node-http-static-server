@@ -1,21 +1,28 @@
 {
-   "name": "server",
-   "version": "0.0.1",
-   "description": "Serve static pages",
-   "author": "Wal De Mar-Lad",
-   "license": "MIT",
-   "main": "server.js",
-   "config": {
-      "host": "127.0.0.1",
-      "port": "8080",
-      "public": "public",
-      "index": "/index.html"
+   "name"         : "server",
+   "version"      : "0.0.1",
+   "description"  : "Serve static pages",
+   "author"       : "Wal De Mar-Lad",
+   "main"         : "server.js",
+   "config"       : {
+      "host"      : "127.0.0.1",
+      "port"      : "8080",
+      "public"    : "public",
+      "index"     : "index.html"
    },
-   "dependencies": {
-      "mime": "^1.3.4"
+   "dependencies" : {
+      "mime"      : "^1.3.4"
    },
-   "repository" :
-   { "type" : "git",
-      "url" : "https://github.com/wal-de-marlad/node-http-static-server.git"
+   "repository"   : {
+      "type"      : "git",
+      "url"       : "https://github.com/wal-de-marlad/node-http-static-server.git"
+   },
+   "bugs"         : {
+      "url"       : "https://github.com/wal-de-marlad/node-http-static-server/issues",
+      "email"     : "wal.de.marlad@gmail.com"
+   },
+   "license"      : {
+      "type"      : "MIT",
+      "url"       : "https://github.com/wal-de-marlad/node-http-static-server/blob/master/LICENSE"
    }
 }
