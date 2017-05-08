@@ -1,7 +1,7 @@
 {
    "name"         : "server",
    "version"      : "0.0.1",
-   "description"  : "Serve static pages over http",
+   "description"  : "Serve static pages over HTTP",
    "author"       : "Wal De Mar-Lad",
    "license"      : "MIT",
    "main"         : "server.js",
